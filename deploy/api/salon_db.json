@@ -1,0 +1,305 @@
+{
+  "salonInfo": {
+    "name": "AURA Luxury Salon & Bridal Lounge",
+    "tagline": "Luxury Salon & Bridal Lounge",
+    "phone": "+91 9360449096",
+    "whatsapp": "+919360449096",
+    "email": "dsah56631@gmail.com",
+    "address": "Ramapuram, Chennai, Tamil Nadu, 600089",
+    "landmark": "Near DLF Cybercity / Mount-Poonamallee Main Road, Ramapuram",
+    "instagram": "@aura_luxury_chennai",
+    "currency": "₹",
+    "cancellationPolicy": "Complimentary cancellation or rescheduling up to 4 hours prior to appointment."
+  },
+  "workingHours": {
+    "Monday": {
+      "open": "09:00",
+      "close": "21:00",
+      "isOpen": true
+    },
+    "Tuesday": {
+      "open": "09:00",
+      "close": "21:00",
+      "isOpen": true
+    },
+    "Wednesday": {
+      "open": "09:00",
+      "close": "21:00",
+      "isOpen": true
+    },
+    "Thursday": {
+      "open": "09:00",
+      "close": "21:00",
+      "isOpen": true
+    },
+    "Friday": {
+      "open": "09:00",
+      "close": "21:30",
+      "isOpen": true
+    },
+    "Saturday": {
+      "open": "08:30",
+      "close": "21:30",
+      "isOpen": true
+    },
+    "Sunday": {
+      "open": "08:30",
+      "close": "21:00",
+      "isOpen": true
+    }
+  },
+  "blockedDates": [],
+  "services": [
+    {
+      "id": "srv-1",
+      "name": "Royal South Indian Muhurtham Bridal Package",
+      "category": "Bridal & Muhurtham",
+      "price": 14500,
+      "duration": 180,
+      "description": "HD waterproof bridal makeup, bespoke Kanchipuram saree draping, temple jewelry setting, and traditional jasmine floral poola jada coiffure.",
+      "image": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=800&q=80",
+      "popular": true,
+      "rating": 5,
+      "reviewsCount": 184
+    },
+    {
+      "id": "srv-2",
+      "name": "Nanoplastia & Silk Keratin Therapy",
+      "category": "Hair Treatment",
+      "price": 6500,
+      "duration": 150,
+      "description": "Formaldehyde-free organic amino acid smoothing tailored for Chennai humidity. Leaves locks ultra-glossy, frizz-free, and manageable for up to 6 months.",
+      "image": "https://images.unsplash.com/photo-1562322140-8baeececf3df?auto=format&fit=crop&w=800&q=80",
+      "popular": true,
+      "rating": 4.9,
+      "reviewsCount": 220
+    },
+    {
+      "id": "srv-3",
+      "name": "24K Gold & Kumkumadi Radiance Facial",
+      "category": "Skin & Facials",
+      "price": 3200,
+      "duration": 75,
+      "description": "Kashmiri saffron and authentic Kumkumadi tailam infusion, ultrasonic micro-exfoliation, 24K real gold leaf masking, and de-tan glow polish.",
+      "image": "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?auto=format&fit=crop&w=800&q=80",
+      "popular": true,
+      "rating": 4.95,
+      "reviewsCount": 145
+    },
+    {
+      "id": "srv-4",
+      "name": "Couture Haircut, Steam Scalp Detox & Blowdry",
+      "category": "Hair Styling",
+      "price": 1200,
+      "duration": 60,
+      "description": "Texture assessment, precision layering or modern bob, organic rosemary botanical steam cleanse, and bouncy red-carpet blowout.",
+      "image": "https://images.unsplash.com/photo-1595476108010-b4d1f102b1b1?auto=format&fit=crop&w=800&q=80",
+      "popular": false,
+      "rating": 4.88,
+      "reviewsCount": 310
+    },
+    {
+      "id": "srv-5",
+      "name": "French Balayage & Caramel Highlights",
+      "category": "Hair Coloring",
+      "price": 5800,
+      "duration": 150,
+      "description": "Hand-painted warm caramel, mocha, and honey tones blended seamlessly for Indian hair textures, sealed with acidic gloss shine infusion.",
+      "image": "https://images.unsplash.com/photo-1605497788044-5a32c7078486?auto=format&fit=crop&w=800&q=80",
+      "popular": true,
+      "rating": 4.92,
+      "reviewsCount": 168
+    },
+    {
+      "id": "srv-6",
+      "name": "Maharaja Royal Beard Sculpt & Hot Towel Shave",
+      "category": "Grooming & Barber",
+      "price": 750,
+      "duration": 45,
+      "description": "Straight razor precision contouring, sandalwood and peppermint hot steam compresses, organic beard elixir massage, and neck fade.",
+      "image": "https://images.unsplash.com/photo-1503951914875-452162b0f3f1?auto=format&fit=crop&w=800&q=80",
+      "popular": false,
+      "rating": 4.9,
+      "reviewsCount": 195
+    },
+    {
+      "id": "srv-7",
+      "name": "Ayurvedic Kesh Herbal Spa & Shirodhara Massage",
+      "category": "Hair & Wellness",
+      "price": 2400,
+      "duration": 75,
+      "description": "Pure Brahmi, Bhringraj, and Amla warm oil scalp massage with soothing Shirodhara forehead oil stream to reduce stress and boost hair density.",
+      "image": "https://images.unsplash.com/photo-1544161515-4ab6ce6db874?auto=format&fit=crop&w=800&q=80",
+      "popular": true,
+      "rating": 5,
+      "reviewsCount": 112
+    },
+    {
+      "id": "srv-8",
+      "name": "Japanese Structured Gel Nails & Reflexology Pedicure",
+      "category": "Nail Studio",
+      "price": 1800,
+      "duration": 60,
+      "description": "Organic soft gel overlay, chrome or French tips, combined with Himalayan pink salt foot soak, scrub, and deep acupressure reflexology.",
+      "image": "https://images.unsplash.com/photo-1632345031435-8727f6897d53?auto=format&fit=crop&w=800&q=80",
+      "popular": false,
+      "rating": 4.85,
+      "reviewsCount": 88
+    }
+  ],
+  "staff": [
+    {
+      "id": "staff-1",
+      "name": "Priya Sundaram",
+      "role": "Celebrity Bridal Stylist & Muhurtham Artist",
+      "bio": "12+ years crafting bridal looks for South Indian weddings, film personalities, and fashion galas across Chennai and Bangalore.",
+      "specialties": [
+        "Muhurtham Makeup",
+        "Saree Draping",
+        "Poola Jada Hair Art",
+        "Airbrush HD"
+      ],
+      "rating": 4.99,
+      "reviewsCount": 240,
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=600&q=80",
+      "workingDays": [
+        "Monday",
+        "Tuesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "workingHours": {
+        "start": "09:00",
+        "end": "20:00"
+      },
+      "assignedServices": [
+        "srv-1",
+        "srv-3"
+      ]
+    },
+    {
+      "id": "staff-2",
+      "name": "Rajesh Varma",
+      "role": "Creative Hair Director & Balayage Specialist",
+      "bio": "Trained at Toni&Guy and L'Oréal Professionnel. Master of Nanoplastia hair smoothing, French balayage, and precision cutting.",
+      "specialties": [
+        "Nanoplastia",
+        "Balayage",
+        "Texture Cuts",
+        "Keratin Gloss"
+      ],
+      "rating": 4.95,
+      "reviewsCount": 198,
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=600&q=80",
+      "workingDays": [
+        "Monday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "workingHours": {
+        "start": "09:30",
+        "end": "20:30"
+      },
+      "assignedServices": [
+        "srv-2",
+        "srv-4",
+        "srv-5"
+      ]
+    },
+    {
+      "id": "staff-3",
+      "name": "Arjun Kumar",
+      "role": "Master Barber & Beard Artisan",
+      "bio": "Specialist in razor sharp beard architecture, modern skin fades, and luxurious hot towel grooming rituals.",
+      "specialties": [
+        "Hot Razor Shaves",
+        "Beard Sculpting",
+        "Skin Fades",
+        "Groom Styling"
+      ],
+      "rating": 4.92,
+      "reviewsCount": 165,
+      "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=600&q=80",
+      "workingDays": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Saturday",
+        "Sunday"
+      ],
+      "workingHours": {
+        "start": "09:00",
+        "end": "21:00"
+      },
+      "assignedServices": [
+        "srv-4",
+        "srv-6"
+      ]
+    },
+    {
+      "id": "staff-4",
+      "name": "Deepa Menon",
+      "role": "Ayurvedic Skin Clinician & Spa Therapist",
+      "bio": "Certified in holistic Kerala Ayurvedic therapies, lymphatic dermal sculpting, and Kumkumadi bridal glow treatments.",
+      "specialties": [
+        "Kumkumadi Facials",
+        "Ayurvedic Kesh Spa",
+        "Shirodhara",
+        "Reflexology"
+      ],
+      "rating": 4.94,
+      "reviewsCount": 132,
+      "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=600&q=80",
+      "workingDays": [
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "workingHours": {
+        "start": "10:00",
+        "end": "19:30"
+      },
+      "assignedServices": [
+        "srv-3",
+        "srv-7",
+        "srv-8"
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "usr-admin-1",
+      "name": "Salon Director",
+      "email": "dsah56631@gmail.com",
+      "password": "Dip@1234",
+      "role": "admin",
+      "phone": "+91 9360449096"
+    },
+    {
+      "id": "usr-cust-1791120228260",
+      "name": "Dipesh Sah",
+      "email": "dipeshkumarsah2061@gmail.com",
+      "password": "0987654321",
+      "phone": "+91 9360449096",
+      "role": "customer"
+    }
+  ],
+  "customers": [],
+  "appointments": [],
+  "notifications": [],
+  "smtpConfig": {
+    "host": "smtp.gmail.com",
+    "port": 587,
+    "user": "dipeshkumarsah2061@gmail.com",
+    "pass": "YOUR_GMAIL_APP_PASSWORD"
+  }
+}

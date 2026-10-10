@@ -1,0 +1,19 @@
+{
+  "name": "salon-beauty-appointment-platform",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Full-stack luxury salon & beauty appointment booking platform",
+  "scripts": {
+    "dev": "node start-dev.js",
+    "start": "node start-dev.js"
+  },
+  "keywords": [
+    "salon",
+    "spa",
+    "beauty",
+    "appointments",
+    "booking"
+  ],
+  "author": "Antigravity",
+  "license": "ISC"
+}
