@@ -1,0 +1,22 @@
+# robots.txt for AURA Luxury Salon & Bridal Lounge (https://auraa.kesug.com)
+User-agent: *
+Allow: /
+Allow: /assets/
+Allow: /aura-logo.jpg
+Allow: /sitemap.xml
+Disallow: /api/
+Disallow: /admin
+
+# Googlebot
+User-agent: Googlebot
+Allow: /
+Allow: /assets/
+Allow: /aura-logo.jpg
+
+# Bingbot
+User-agent: Bingbot
+Allow: /
+Allow: /assets/
+
+Host: https://auraa.kesug.com
+Sitemap: https://auraa.kesug.com/sitemap.xml

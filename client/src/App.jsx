@@ -8,6 +8,7 @@ import Hero from './components/Hero';
 import ServicesSection from './components/ServicesSection';
 import StaffSection from './components/StaffSection';
 import ExperienceSection from './components/ExperienceSection';
+import FaqSection from './components/FaqSection';
 import Footer from './components/Footer';
 
 import BookingModal from './components/BookingModal';
@@ -130,6 +131,7 @@ function MainApp() {
             onSelectStaff={handleSelectStaff}
           />
           <ExperienceSection />
+          <FaqSection onOpenBooking={() => handleOpenBooking()} />
         </main>
       )}
 

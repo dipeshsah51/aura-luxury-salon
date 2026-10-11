@@ -1,0 +1,17 @@
+{
+  "name": "AURA Luxury Salon & Bridal Lounge",
+  "short_name": "AURA Salon",
+  "description": "Next-Generation Luxury Salon, South Indian Bridal Studio & Wellness Spa in Ramapuram, Chennai.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0B0F17",
+  "theme_color": "#0B0F17",
+  "icons": [
+    {
+      "src": "/aura-logo.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}
